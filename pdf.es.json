@@ -1,5 +1,6 @@
 {
     "pdf": {
+        "page": "Página <page>/<total>",
         "total_ht": "Total sin IVA",
         "total_ttc": "Total con IVA",
         "total_with_vat": "Total con IVA",

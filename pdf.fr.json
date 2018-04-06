@@ -1,5 +1,6 @@
 {
     "pdf": {
+        "page": "Page <page>/<total>",
         "total_ht": "Total HT",
         "total_ttc": "Total TTC",
         "total_with_vat": "Total avec TVA",
@@ -43,13 +44,14 @@
         "invoice": "Facture",
         "quote": "Devis",
         "draft": "Brouillon",
-        "recurring": "Facture_recurrente",
+        "recurring": "Facture recurrente",
         "fee_note": "Note d'honoraires",
         "credit_note": "Avoir",
         "specimen": "Spécimen",
         "specimen_proforma": "Spécimen de facture proforma",
         "taux_legal": "taux directeur de refinancement de la BCE, majoré de 10 points",
         "taux_annuel": "%s par an",
+        "comptant": "paiement comptant",
         "a_reception": "à réception de la facture",
         "none": "aucun",
         "jours_net": "%s jours nets à compter de la date d'émission de la facture",
@@ -72,7 +74,6 @@
         "customer": "Client",
         "quote_legal_info": "Conditions de règlement appliquées sur les factures",
         "invoice_quote_ref": "Référence du devis associé à cette facture",
-        "settlements": "Détail des versements",
-        "comptant": "paiement comptant"
+        "settlements": "Détail des versements"
     }
 }

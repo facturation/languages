@@ -1,5 +1,6 @@
 {
     "pdf": {
+        "page": "Page <page>/<total>",
         "total_ht": "Total excl. VAT",
         "total_ttc": "Total incl. VAT",
         "total_with_vat": "Total incl. VAT",
@@ -14,8 +15,8 @@
         "sous_total_ht": "Subtotal excl. VAT",
         "remise_commerciale": "Discount",
         "no_tva": "VAT not applicable",
-        "tva_en_cours": "Pending",
         "vat_exemption": "VAT exemption",
+        "tva_en_cours": "Pending",
         "net_price": "Net amount",
         "settlement": "Payment of %s on %s, paid by %s",
         "settlement_refund": "Refund of %s on %s, paid by %s",
@@ -43,14 +44,14 @@
         "invoice": "Invoice",
         "quote": "Quote",
         "draft": "Draft",
-        "recurring": "Recurring_invoice",
+        "recurring": "Recurring invoice",
         "fee_note": "Invoice",
         "credit_note": "Credit note",
         "specimen": "Specimen",
-        "specimen_proforma": "Specimen Proforma Invoice",
         "taux_legal": "European Central Bank interest rate applied in its current refinancing operation, plus 10 percentage points",
         "taux_annuel": "%s per year",
         "a_reception": "upon receipt of invoice",
+        "comptant": "cash payment",
         "none": "none",
         "jours_net": "net %s days starting at issue date of invoice",
         "fin_de_mois_le": "%s days end of the month the %sth of the following month after issue date of the invoice",
@@ -63,6 +64,7 @@
         "deposit_refund": "Credit note n°%s",
         "deposit_on_quote": "Deposit on quote n°%s",
         "proforma": "Proforma Invoice",
+        "specimen_proforma": "Specimen Proforma Invoice",
         "optional": "Available options",
         "pay_by_paypal": "You can pay this invoice with a credit card or Paypal using this link",
         "refund_for_invoice": "This credit note cancel invoice n°%s",
@@ -72,7 +74,6 @@
         "customer": "Customer",
         "quote_legal_info": "Payment terms applied to invoices",
         "invoice_quote_ref": "Quote ref.",
-        "settlements": "Payments",
-        "comptant": "cash payment"
+        "settlements": "Payments"
     }
 }
