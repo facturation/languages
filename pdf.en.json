@@ -66,7 +66,7 @@
         "proforma": "Proforma Invoice",
         "specimen_proforma": "Specimen Proforma Invoice",
         "optional": "Available options",
-        "pay_by_paypal": "You can pay this invoice with a credit card or Paypal using this link",
+        "online_payment": "You can pay this invoice with a credit card or Paypal using this link",
         "refund_for_invoice": "This credit note cancel invoice n°%s",
         "recovery_costs": "In the event of late payment, statutory lump sum compensation for recovery costs",
         "bad_debt": "Invoice remained unpaid for the sum of %s (excluding VAT) and the sum of %s (corresponding VAT) which can not be subject to a deduction (CGI, art. 272).",
