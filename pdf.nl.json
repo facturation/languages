@@ -1,6 +1,5 @@
 {
     "pdf": {
-        "page": "Pagina <page>/<total>",
         "total_ht": "Totaal excl.btw",
         "total_ttc": "Totaal incl. btw",
         "total_with_vat": "Totaal met Btw",
@@ -10,7 +9,7 @@
         "quantite": "Aantal",
         "designation": "Beschrijving",
         "taux_tva": "% BTW",
-        "pu_ht": "Eenheidsprijs excl.btw",
+        "pu_ht": "Stukprijs excl.btw",
         "pu_ttc": "Totaal",
         "sous_total_ht": "Netto bedrag",
         "remise_commerciale": "Korting",
@@ -65,7 +64,6 @@
         "deposit_on_quote": "Storting po offerte %s",
         "proforma": "Proforma factuur",
         "optional": "Beschikbaar als een optie",
-        "online_payment": "U kunt deze factuur betalen met een creditcard of via Paypal via deze link",
         "refund_for_invoice": "Dit credietnota annuleert factuur nr %s",
         "recovery_costs": "In geval van niet tijdige betaling, wettelijke vergoeding voor invorderingskosten",
         "bad_debt": "Rekening die onbetaald voor het bedrag van %s (HT) is gebleven en het bedrag van %s (overeenkomstige BTW) dat het onderwerp van een aftrek (CGI, kunst 272) niet kan zijn.",
@@ -75,6 +73,8 @@
         "invoice_quote_ref": "Aanbiedingsreferentie gekoppeld aan deze factuur",
         "settlements": "Details van betalingen",
         "comptant": "contante betaling",
+        "page": "Pagina <page>/<total>",
+        "online_payment": "U kunt deze rekening betalen met een creditcard of Paypal via deze link",
         "recovery_cost": "wettelijke bedrag van kracht"
     }
 }
