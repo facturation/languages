@@ -1,6 +1,5 @@
 {
     "pdf": {
-        "page": "Página <page>/<total>",
         "total_ht": "Total sin IVA",
         "total_ttc": "Total con IVA",
         "total_with_vat": "Total con IVA",
@@ -65,7 +64,6 @@
         "deposit_on_quote": "Entrega sobre la cotización n°%s",
         "proforma": "Factura proforma",
         "optional": "Disponible en opción",
-        "online_payment": "Puede pagar esta factura con una tarjeta de crédito o Paypal usando este enlace",
         "refund_for_invoice": "Este cupón cancela la factura %s",
         "recovery_costs": "En cas de retraso de pago, retribución legal fija para los costes de recuperación de la deuda",
         "bad_debt": "Factura quedada sin pagar de un valor de $%s (Sin IVA) y un valor de %s (Con IVA) que no puede hacer parte de una deducción (CGI, Art. 272).",
@@ -75,6 +73,8 @@
         "invoice_quote_ref": "Referencia de cotización asociado con esta factura",
         "settlements": "Detalles de los pagos",
         "comptant": "Pago inmediato",
+        "page": "Página <page>/<total>",
+        "online_payment": "Puede pagar esta factura con una tarjeta de crédito o Paypal usando este enlace",
         "recovery_cost": "importe legal en vigor"
     }
 }
