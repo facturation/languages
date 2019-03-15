@@ -74,6 +74,7 @@
         "quote_legal_info": "Condiciones de pago aplicados a las facturas",
         "invoice_quote_ref": "Referencia de cotización asociado con esta factura",
         "settlements": "Detalles de los pagos",
-        "comptant": "Pago inmediato"
+        "comptant": "Pago inmediato",
+        "recovery_cost": "importe legal en vigor"
     }
 }

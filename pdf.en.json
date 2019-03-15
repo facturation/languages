@@ -74,6 +74,7 @@
         "customer": "Customer",
         "quote_legal_info": "Payment terms applied to invoices",
         "invoice_quote_ref": "Quote ref.",
-        "settlements": "Payments"
+        "settlements": "Payments",
+        "recovery_cost": "legal amount in force"
     }
 }

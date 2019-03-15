@@ -74,6 +74,7 @@
         "customer": "Client",
         "quote_legal_info": "Conditions de règlement appliquées sur les factures",
         "invoice_quote_ref": "Référence du devis associé à cette facture",
-        "settlements": "Détail des versements"
+        "settlements": "Détail des versements",
+        "recovery_cost": "montant légal en vigueur"
     }
 }

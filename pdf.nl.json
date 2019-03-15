@@ -74,6 +74,7 @@
         "quote_legal_info": "Betalingsvoorwaarden toegepast op facturen",
         "invoice_quote_ref": "Aanbiedingsreferentie gekoppeld aan deze factuur",
         "settlements": "Details van betalingen",
-        "comptant": "contante betaling"
+        "comptant": "contante betaling",
+        "recovery_cost": "wettelijke bedrag van kracht"
     }
 }
