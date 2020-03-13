@@ -1,5 +1,6 @@
 {
     "pdf": {
+        "page": "Page <page>/<total>",
         "total_ht": "Total HT",
         "total_ttc": "Total TTC",
         "total_with_vat": "Total avec TVA",
@@ -34,8 +35,8 @@
         "last_name": "Nom",
         "representative": "Nom et qualité",
         "agreed": "Bon pour accord",
-        "individual_signature": "Signature, précédée de la mention manuscrite",
-        "company_signature": "Signature et cachet de la société, précédés de la mention manuscrite",
+        "individual_signature": "Signature, précédée de la mention",
+        "company_signature": "Signature et cachet de la société, précédés de la mention",
         "optional_signature": "en précisant si nécessaire les options retenues",
         "ape": "APE",
         "nace": "NACE",
@@ -43,6 +44,7 @@
         "invoice": "Facture",
         "quote": "Devis",
         "draft": "Brouillon",
+        "preview": "Prévisualisation",
         "recurring": "Facture recurrente",
         "fee_note": "Note d'honoraires",
         "credit_note": "Avoir",
@@ -50,6 +52,7 @@
         "specimen_proforma": "Spécimen de facture proforma",
         "taux_legal": "taux directeur de refinancement de la BCE, majoré de 10 points",
         "taux_annuel": "%s par an",
+        "comptant": "paiement comptant",
         "a_reception": "à réception de la facture",
         "none": "aucun",
         "jours_net": "%s jours nets à compter de la date d'émission de la facture",
@@ -64,6 +67,7 @@
         "deposit_on_quote": "Acompte sur le devis n°%s",
         "proforma": "Facture proforma",
         "optional": "Disponible en option",
+        "online_payment": "Vous pouvez régler cette facture avec une Carte Bancaire ou Paypal en utilisant ce lien",
         "refund_for_invoice": "Cet avoir annule la facture n°%s",
         "recovery_costs": "En cas de retard de paiement, indemnité forfaitaire légale pour frais de recouvrement",
         "bad_debt": "Facture demeurée impayée pour la somme de %s (HT) et pour la somme de %s (TVA correspondante) qui ne peut pas faire l'objet d'une déduction (CGI, art. 272).",
@@ -72,9 +76,7 @@
         "quote_legal_info": "Conditions de règlement appliquées sur les factures",
         "invoice_quote_ref": "Référence du devis associé à cette facture",
         "settlements": "Détail des versements",
-        "comptant": "paiement comptant",
-        "page": "Page <page>/<total>",
-        "online_payment": "Vous pouvez régler cette facture avec une Carte Bancaire ou Paypal en utilisant ce lien",
-        "recovery_cost": "montant légal en vigueur"
+        "recovery_cost": "montant légal en vigueur",
+        "purchase_number": "Numéro de bon de commande"
     }
 }

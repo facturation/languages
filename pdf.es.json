@@ -34,8 +34,8 @@
         "last_name": "Nombre",
         "representative": "Nombre y profesión",
         "agreed": "Bueno para un acuerdo",
-        "individual_signature": "Firma precedida de las menciones escritas a mano",
-        "company_signature": "Firma y tampón de empresa precedidos de las menciones escritas a mano",
+        "individual_signature": "Firma precedida de las menciones",
+        "company_signature": "Firma y tampón de empresa precedidos de las menciones a mano",
         "optional_signature": "especificando, si es necesario, las opciones elegidas",
         "ape": "APE",
         "nace": "NACE",
@@ -43,6 +43,7 @@
         "invoice": "Factura",
         "quote": "Cotización",
         "draft": "Borrador",
+        "preview": "Previsualización",
         "recurring": "Factura recurrente",
         "fee_note": "Nota de honorarios",
         "credit_note": "Cupón",
@@ -75,6 +76,7 @@
         "comptant": "Pago inmediato",
         "page": "Página <page>/<total>",
         "online_payment": "Puede pagar esta factura con una tarjeta de crédito o Paypal usando este enlace",
-        "recovery_cost": "importe legal en vigor"
+        "recovery_cost": "importe legal en vigor",
+        "purchase_number": "Número de orden de compra"
     }
 }
