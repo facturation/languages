@@ -43,7 +43,9 @@
         "optional_signature": "specificeren, indien nodig, de geselecteerde opties",
         "ape": "APE",
         "nace": "NACE",
+        "customer_vat_number": "BTW nr klant",
         "vat_number": "BTW nr",
+        "siren": "SIREN",
         "invoice": "Factuur",
         "quote": "Offerte",
         "draft": "Ontwerp",
@@ -84,7 +86,7 @@
         "settlements": "Details van betalingen",
         "comptant": "contante betaling",
         "page": "Pagina <page>/<total>",
-        "online_payment": "U kunt deze rekening betalen met een creditcard of Paypal via deze link",
+        "online_payment": "U kunt deze rekening online betalen via deze link",
         "recovery_cost": "wettelijke bedrag van kracht",
         "purchase_number": "inkoopordernummer",
         "delivery_on": "Leverdatum"
